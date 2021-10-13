@@ -44,7 +44,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-azar-nuzy-99681a212/"><img src="https://img.shields.io/badge/-Muhammad%20Azar%20Nuzy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/azar_nuzy"><img src="https://img.shields.io/badge/@azar_Nuzy-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="azarnuzy@gmail.com"><img src="https://img.shields.io/badge/azarnuzy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:azarnuzy@gmail.com"><img src="https://img.shields.io/badge/azarnuzy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/azar_nuzy/"><img src="https://img.shields.io/badge/@azar_nuzy-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/muhammad.a.nuzy"><img src="	https://img.shields.io/badge/Muhammad%20Azar%20Nuzy-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
