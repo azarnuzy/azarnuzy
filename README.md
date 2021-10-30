@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about Front-End & Back-End Web Development.\
 ✍️ &nbsp;In my free time, I pursue watching netflix and doing exercise as hobbies. \
 💬 &nbsp;Feel free to reach out to me for discussion about anything.\
-✉️ &nbsp;You can shoot me an email at azarnuzy@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at azarnuzy@gmail.com! I'll try to respond as soon as I can. \
 
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.azarnsite.xyz) for more details about me. I'm open to feedback and suggestions! -->
 
